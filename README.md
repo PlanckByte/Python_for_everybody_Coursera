@@ -16,8 +16,9 @@ The Python for Everybody specialization is a beginner-friendly series of courses
 
 This repository includes:
 
-1. **Code Examples**: Python scripts created while following the lectures and completing assignments.
-2. **Assignments**: Solutions to graded assignments from the courses.
+1. **Code Examples**
+2. **Assignments**
+3. **Personal excercises**
 
 
 ## Courses in the Specialization
@@ -31,4 +32,4 @@ This repository includes:
  
  ## Disclaimer
  
-This repository is for personal learning purposes. Please do not copy or plagiarize the content for submission in the course. 
+The codes and excersises of the Capstone are not inlcuded here since most of them where provided for us. This repository is for personal learning purposes. Please do not copy or plagiarize the content for submission in the course. 
